@@ -13,13 +13,13 @@ On my GitHub page you can find:
 
 ### I. Data Science Projects 📝 :  
 
-#### Python:
+#### 🐍 Python:
 
 1.1. [DS Project with use of Logistic Regression and Random Forest](https://github.com/martawa10/Logistic_Reg-Random_Forest)
 
 1.2. [DS Project with use of K-Mean Clustering](https://github.com/martawa10/Clustering-Hamburg)  
 
-#### R:
+#### :r: R:
 
 1.3 [Basic Shiny App](https://github.com/martawa10/Shiny-App)  
 
