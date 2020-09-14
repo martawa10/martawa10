@@ -6,20 +6,20 @@ In 2018 I decided to change my career from environmental engineering to
 data science. The same year I started my studies and also change a job for
 IT-related field. Now I am highly motivated to pursue a career that will give me an opportunity to develop my data analytics, data science, and data visualization skills. After almost 2 years of studies, I am more than sure it is a path I want to follow.
 
-I am aware that I still have a lot to learn. Currently, I focus on enhancing my knowledge in Machine Learning, Python programming, and data visualization in Tableau and PowerBI.
+I am aware that I still have a lot to learn. Currently, I focus on enhancing my knowledge in Machine Learning, Python programming 🐍 , and data visualization in Tableau and PowerBI.
 
 
 On my GitHub page you can find:
 
 ### I. Data Science Projects 📝 :  
 
-#### 🐍 Python:
+#### Python:
 
 1.1. [DS Project with use of Logistic Regression and Random Forest](https://github.com/martawa10/Logistic_Reg-Random_Forest)
 
 1.2. [DS Project with use of K-Mean Clustering](https://github.com/martawa10/Clustering-Hamburg)  
 
-#### :r: R:
+#### R:
 
 1.3 [Basic Shiny App](https://github.com/martawa10/Shiny-App)  
 
