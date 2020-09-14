@@ -9,7 +9,7 @@ IT-related field. Now I am highly motivated to pursue a career that will give me
 I am aware that I still have a lot to learn. Currently, I focus on enhancing my knowledge in Machine Learning, Python programming, and data visualization in Tableau and PowerBI.
 
 
-In my GitHub page you can find:
+On my GitHub page you can find:
 
 ### I. Data Science Projects 📝 :  
 
