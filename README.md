@@ -4,7 +4,7 @@ My name is Marta Wardzińska. Welcome to my Project Portfolio!
 
 In 2018 I decided to change my career from environmental engineering to
 data science. The same year I started my studies and also change a job for
-IT-related field. Now I am highly motivated to pursue a career that will give me an opportunity to develop my data analytics, data science, and data visualization skills. After almost 2 years of studies, I am more than sure it is a path I want to follow.
+IT-related field. Now I am highly motivated to pursue a career that will give me an opportunity to develop my analytical, data science, and data visualization skills. After almost 2 years of studies, I am more than sure it is a path I want to follow.
 
 I am aware that I still have a lot to learn. Currently, I focus on enhancing my knowledge in Machine Learning, Python programming 🐍 , and data visualization in Tableau and PowerBI.
 
